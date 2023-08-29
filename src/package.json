@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@devextreme/runtime": "3.0.11",
+    "devexpress-diagram": "2.1.75",
+    "devexpress-gantt": "4.1.47",
+    "devextreme": "23.1.4",
+    "devextreme-quill": "1.6.2",
+    "devextreme-react": "23.1.4",
+    "es6-object-assign": "1.1.0",
+    "inferno": "7.4.11",
+    "inferno-clone-vnode": "latest",
+    "inferno-compat": "latest",
+    "inferno-create-class": "latest",
+    "inferno-create-element": "7.4.11",
+    "inferno-dom": "latest",
+    "inferno-extras": "latest",
+    "inferno-hydrate": "7.4.11",
+    "jszip": "3.7.1",
+    "luxon": "1.28.1",
+    "prettier": "2.8.4",
+    "prop-types": "15.8.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "rrule": "2.6.4"
+  },
+  "description": "The FileManager component can display a collection of hierarchical items that present a file system structure. The component allows end users to easily upload and select files and to change folder structure (rename, move, copy and delete files and folders). File and folder management capabilities are fully customizable and can be switched off if necessary.\n",
+  "name": "Hierarchical JS Structure - DevExtreme File Manager"
+}
